@@ -1,0 +1,9 @@
+[
+  {
+    "task_type": "multiplication",
+    "num1": 9,
+    "num2": 5,
+    "answer": 45,
+    "prompt": "What is 9 \u00d7 5? Show your reasoning step by step."
+  }
+]

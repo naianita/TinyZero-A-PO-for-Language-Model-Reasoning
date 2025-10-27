@@ -1,0 +1,16 @@
+[
+  {
+    "task_type": "multiplication",
+    "num1": 8,
+    "num2": 9,
+    "answer": 72,
+    "prompt": "What is 8 \u00d7 9? Show your reasoning step by step."
+  },
+  {
+    "task_type": "multiplication",
+    "num1": 8,
+    "num2": 5,
+    "answer": 40,
+    "prompt": "What is 8 \u00d7 5? Show your reasoning step by step."
+  }
+]
